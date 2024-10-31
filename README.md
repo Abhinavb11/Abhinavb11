@@ -8,7 +8,7 @@
   <a href="mailto:abhinavbalakrishnan1289gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://wa.me/917012984396" target="_blank">
+  <a href="https://wa.me/9562677953" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
   <a href="https://instagram.com/_abhi_nav_11" target="_blank">
