@@ -63,9 +63,10 @@
 <br/>
 
 <h2 align="center"> 🐍 A Snake Eating my Contributions Graph </h2>
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abhinavb11/Abhinavb11/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
