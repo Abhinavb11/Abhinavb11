@@ -80,9 +80,10 @@
   
 
 </div>
-<h2 align="center">⚡ <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> ⚡</h2>
+
 <br/><br/>
 
 <hr/>
+<h2 align="center">⚡ <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> ⚡</h2>
 </details>
 </br></br>
