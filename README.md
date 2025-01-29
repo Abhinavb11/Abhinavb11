@@ -1,5 +1,6 @@
 ![My card name](https://cardivo.vercel.app/api?name=ABHINAV-B%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/181054597?v=4&backgroundColor=%23e4f2f6&instagram=_abhi_nav_11&github=Abhinavb11&)
 </p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhinavb11&label=Visitors%20count&color=10d9c3&style=plastic" alt="Abhinavb11" /> </p>
 </br>
@@ -19,6 +20,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
+
+  
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
