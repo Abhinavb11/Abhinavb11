@@ -83,6 +83,13 @@
   
 </div>
 
+<h2 align="center">  
+<br>
+<a href="https://student-performance-prediction-2.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/My website-008000?target="_blank" style="width: 150px; height: auto;"/></br>
+</a>
+</h2>
+
 <br/><br/>
 <hr/>
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"></h2>
