@@ -85,7 +85,7 @@
 
 <h2 align="center">  
 <br>
-<a href="https://abhinavb11.github.io//" target="_blank">
+<a href="https://abhinavb11.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/My website-008000?target="_blank" style="width: 150px; height: auto;"/></br>
 </a>
 </h2>
